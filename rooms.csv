@@ -1,12 +1,12 @@
-Room_no,Room_type,Floor,Status,Booking_count,Guest_name,Check_in
+Room_No,Type,Floor,Status,Booking_Count,Guest_Name,Check_In
 101,Single,1,Available,5,,
-102,Single,1,Occupied,8,Rahul Sharma,2026-09-20
+102,Single,1,Occupied,8,Tulip Sharma,2026-09-20
 103,Double,1,Available,12,,
-104,Double,1,Occupied,10,Priya Mehta,2026-09-21
+104,Double,1,Occupied,10,Yuvraj Kalra,2026-09-21
 201,Deluxe,2,Available,15,,
-202,Deluxe,2,Occupied,14,Arjun Singh,2026-09-19
+202,Deluxe,2,Occupied,14,Tanveer Kaur,2026-09-19
 203,Suite,2,Available,7,,
-204,Suite,2,Occupied,9,Neha Gupta,2026-09-22
+204,Suite,2,Occupied,9,Jeevika Verma,2026-09-22
 301,Single,3,Available,6,,
 302,Double,3,Available,11,,
 303,Deluxe,3,Available,13,,
