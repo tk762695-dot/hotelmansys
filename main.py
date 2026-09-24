@@ -163,7 +163,7 @@ def book_room():
     rooms.loc[row, 'Status'] = 'Occupied'
     rooms.loc[row, 'Guest_Name'] = guest
     rooms.loc[row, 'Booking_Count'] += 1
-    rooms.loc[row, 'Check_In'] = date.today()
+    rooms.loc[row, 'Check_In'] = str(date.today())
 
     rooms.to_csv(room_file, index=False)
 
